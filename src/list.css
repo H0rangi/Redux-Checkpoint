@@ -1,0 +1,12 @@
+  
+  .list {
+    width: 250px;
+    height: 320px;
+    border-radius: 25px;
+    justify-content: center;
+    padding: 100px;
+    background-color: rgb(0 0 0 / 50%);
+    left: 150px;
+    border: 2px solid white;
+  }
+  

@@ -1,4 +1,4 @@
-import { configureStore, createSlice } from '@reduxjs';
+import { configureStore, createSlice } from '@reduxjs/toolkit';
 
 const todosSlice = createSlice({
   name: 'todos',
